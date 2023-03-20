@@ -104,7 +104,7 @@ body {background: rgb(41 121 255 );}
 .background {
     width: 100%; 
     height: 100vh; 
-    background: url('/hero.jpeg') no-repeat;
+    background: url('hero.jpeg') no-repeat;
     background-size: cover;
     background-position: center;
     filter: blur(10px);
@@ -117,7 +117,7 @@ body {background: rgb(41 121 255 );}
     transform: translate(-50%, -50%);
     width: 80%; 
     height: 80vh; 
-    background: url('/Phyu Lone.jpg') no-repeat; 
+    background: url('Phyu Lone.jpg') no-repeat; 
     background-size: cover;
     background-position: center; 
     border-radius: 10px; 
